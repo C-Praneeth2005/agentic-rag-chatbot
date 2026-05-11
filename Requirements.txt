@@ -1,0 +1,15 @@
+pydantic
+langchain-ollama
+langchain-core
+langchain-google-genai
+python-dotenv
+langchain
+langchain-anthropic
+langchain-openai
+streamlit
+langchain-groq
+langchain-community
+langgraph
+pypdf
+langchain-text-splitters
+FastEmbed
