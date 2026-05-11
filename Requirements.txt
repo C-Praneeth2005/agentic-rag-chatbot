@@ -13,3 +13,4 @@ langgraph
 pypdf
 langchain-text-splitters
 FastEmbed
+python-dotenv
